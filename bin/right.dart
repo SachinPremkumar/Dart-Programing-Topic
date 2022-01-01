@@ -12,3 +12,10 @@ void main(List<String> arguments) {
     stdout.writeln();
   }
 }
+//output
+  //            *
+  //          * *
+  //        * * *
+  //      * * * *
+  //    * * * * *
+  //  * * * * * *
